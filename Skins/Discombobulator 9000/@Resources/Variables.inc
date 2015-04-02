@@ -7,7 +7,7 @@
 ; =======
 
 Bands=24
-; Number of bars
+; Number of roundlines
 
 RoundlineLength=8
 RoundlineGap=4
