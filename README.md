@@ -2,4 +2,6 @@ You can change the distance from the center of the eye, number of roundlines, le
 
 This was originally an April Fools joke, but this still includes a functional visualizer
 
+GIF was recorded in [ScreenToGif](https://screentogif.codeplex.com/)
+
 ![Preview](http://orig00.deviantart.net/6862/f/2015/092/c/2/discombobulator_9000__music_visualizer__rainmeter__by_alatsombath-d8nylch.gif)
